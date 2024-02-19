@@ -2516,9 +2516,9 @@ dependencies = [
 
 [[package]]
 name = "nbd"
-version = "0.2.3"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ae36b0aee27117ae0bc775511be136ac58692704b8650da1e6afee816394a11a"
+checksum = "c78ff6548a62635efeb5432bab5a5e5b5589f9d794e9d6d305247914bfc78083"
 dependencies = [
  "byteorder",
 ]
@@ -5314,7 +5314,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "97fee6b57c6a41524a810daee9286c02d7752c4253064d0b05472833a438f675"
 dependencies = [
  "cfg-if",
- "rand 0.6.5",
+ "rand 0.8.5",
  "static_assertions",
 ]
 
